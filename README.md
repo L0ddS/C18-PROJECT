@@ -1,1 +1,1 @@
-# C18-PROJECT
+# project-template-C19
